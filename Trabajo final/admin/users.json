@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alma Olea",
+        "user": "alma.olea",
+        "passwd": "123"
+    },
+    {
+        "name": "Lauren Cordero",
+        "user": "lauren.cordero",
+        "passwd": "456"
+    },
+    {
+        "name": "Manuela Londoño",
+        "user": "manuela.londoño",
+        "passwd": "789"
+    },
+    {
+        "name": "Angelower Santana",
+        "user": "angelower.santana",
+        "passwd": "248"
+    },
+    {
+        "name": "Paula Garcia",
+        "user": "paula.garcia",
+        "passwd": "197"
+    },
+    {
+        "name": "1",
+        "user": "1",
+        "passwd": "1"
+    }
+]
